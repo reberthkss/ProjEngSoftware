@@ -1,5 +1,5 @@
 ![App name](/images/terappia_name.png)
-## Integrantes: <br/>
+### Integrantes: <br/>
   - Luiz Felipe 170.294 <br/>
   - Laura Tomasin Barbosa 163.884 <br/>
   - Rafael da Rocha 163.973 <br/>
